@@ -1,0 +1,188 @@
+[
+  {
+    "main": "Master",
+    "title": "Course",
+    "path": "/course",
+    "active" :"btn-primary",
+    "element":"<Course/>",
+    "icon": "menu-icon tf-icons bx bx-book-bookmark",
+    "iconopen": "menu-link "
+  },
+    {
+      
+      "title": "Student",
+      "icon": "menu-icon tf-icons bx bx-user",
+      "active" :"btn-primary",
+      "iconopen": "menu-link menu-toggle",
+      "subNav": [
+        {
+          "title": "Enquiry",
+          "path": "/student/Enquiry",
+          "icon": "<IoIcons.IoIosPaper />"
+          
+        },
+        {
+          "title": "Registration",
+          "path": "/student/Registration",
+          "icon": "<IoIcons.IoIosPaper />"
+        }
+
+      ]
+    },
+    {
+      
+      "title": "Staff",
+      "active" :"btn-primary",
+      "icon": "menu-icon tf-icons  bx bx-briefcase",
+      "iconopen": "menu-link menu-toggle",
+      "subNav": [
+        {
+          "title": "Staff Details",
+          "path": "/services/services1",
+          "icon": "<IoIcons.IoIosPaper />",
+          "cName": "sub-nav"
+        },
+        {
+          "title": "Staff Attendance",
+          "path": "/services/services2",
+          "icon": "<IoIcons.IoIosPaper />",
+          "cName": "sub-nav"
+        },
+        {
+          "title": "Designation",
+          "path": "/staff/Designation",
+          "icon": "<IoIcons.IoIosPaper />",
+          "cName": "sub-nav"
+        }
+        
+      ]
+    },
+    
+    {
+      
+      "title": "Batch",
+      "active" :"btn-primary",
+      "icon": "menu-icon tf-icons bx bx-clipboard",
+      "iconopen": "menu-link menu-toggle",
+      "subNav": [
+        {
+          "title": "Create Batch",
+          "path": "/events/events1",
+          "icon": "<IoIcons.IoIosPaper />"
+        },
+        {
+          "title": "Batch schedule",
+          "path": "/events/events2",
+          "icon": "<IoIcons.IoIosPaper />"
+        }
+      ]
+    },
+    
+    {
+      "main": "Transaction",
+      "title": "About Us",
+      "active" :"btn-primary",
+      "icon": "menu-icon tf-icons bx bx-block",
+      "iconopen": "menu-link menu-toggle",
+      "subNav": [
+        {
+          "title": "Our Aim",
+          "path": "/about-us/aim",
+          "icon": "<IoIcons.IoIosPaper />"
+        },
+        {
+          "title": "Our Vision",
+          "path": "/about-us/vision",
+          "icon": "<IoIcons.IoIosPaper />"
+        }
+      ]
+    },
+    {
+      "title": "Support",
+      "path": "/support",
+      "active" :"btn-primary",
+      "icon": "menu-icon tf-icons bx bx-block",
+      "iconopen": "menu-link"
+    },
+
+    {
+      "main": "Payment",
+      "title": "About Us",
+      "active" :"btn-primary",
+      "icon": "menu-icon tf-icons bx bx-block",
+      "iconopen": "menu-link menu-toggle",
+      "subNav": [
+        {
+          "title": "Our Aim",
+          "path": "/about-us/aim",
+          "icon": "<IoIcons.IoIosPaper />"
+        },
+        {
+          "title": "Our Vision",
+          "path": "/about-us/vision",
+          "icon": "<IoIcons.IoIosPaper />"
+        }
+      ]
+    },
+    {
+      "title": "Support",
+      "path": "/support",
+      "active" :"btn-primary",
+      "icon": "menu-icon tf-icons bx bx-block",
+      "iconopen": "menu-link"
+    },
+
+    {
+      "main": "Inventory",
+      "title": "About Us",
+      "active" :"btn-primary",
+      "icon": "menu-icon tf-icons bx bx-block",
+      "iconopen": "menu-link menu-toggle",
+      "subNav": [
+        {
+          "title": "Our Aim",
+          "path": "/about-us/aim",
+          "icon": "<IoIcons.IoIosPaper />"
+        },
+        {
+          "title": "Our Vision",
+          "path": "/about-us/vision",
+          "icon": "<IoIcons.IoIosPaper />"
+        }
+      ]
+    },
+    {
+      "title": "Support",
+      "path": "/support",
+      "active" :"btn-primary",
+      "icon": "menu-icon tf-icons bx bx-block",
+      "iconopen": "menu-link"
+    },
+
+    {
+      "main": "Report",
+      "title": "About Us",
+      "active" :"btn-primary",
+      "icon": "menu-icon tf-icons bx bx-block",
+      "iconopen": "menu-link menu-toggle",
+      "subNav": [
+        {
+          "title": "Our Aim",
+          "path": "/about-us/aim",
+          "icon": "<IoIcons.IoIosPaper />"
+        },
+        {
+          "title": "Our Vision",
+          "path": "/about-us/vision",
+          "icon": "<IoIcons.IoIosPaper />"
+        }
+      ]
+    },
+    {
+      "title": "Support",
+      "path": "/support",
+      "active" :"btn-primary",
+      "icon": "menu-icon tf-icons bx bx-block",
+      "iconopen": "menu-link"
+    }
+  ]
